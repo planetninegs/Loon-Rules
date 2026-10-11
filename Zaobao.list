@@ -1,15 +1,6 @@
-# 联合早报 Lianhe Zaobao
-# 主站
 DOMAIN-SUFFIX,zaobao.com
 DOMAIN-SUFFIX,zaobao.com.sg
 DOMAIN-SUFFIX,zaobao.sg
 
-# 短域名 / 相关
 DOMAIN-SUFFIX,zb.sg
 DOMAIN-SUFFIX,quzaobao.com
-
-# 常见子域名（DOMAIN-SUFFIX 已覆盖，此处仅作补充标注）
-# interactive.zaobao.com
-# stock.zaobao.com.sg
-# www.zaobao.com
-# www.zaobao.com.sg
