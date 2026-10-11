@@ -174,6 +174,7 @@ DOMAIN-KEYWORD,binance
 DOMAIN-KEYWORD,bnbstatic
 DOMAIN-KEYWORD,bntrace
 DOMAIN-KEYWORD,saasexch
+DOMAIN-KEYWORD,bscdnweb
 DOMAIN-SUFFIX,binance.com
 DOMAIN-SUFFIX,binance.me
 DOMAIN-SUFFIX,binance.us
@@ -195,6 +196,7 @@ DOMAIN-SUFFIX,binance.charity
 DOMAIN-SUFFIX,binance.org
 DOMAIN-SUFFIX,binance.zendesk.com
 DOMAIN-SUFFIX,bnbchain.org
+DOMAIN-SUFFIX,bscdnweb.com
 DOMAIN-SUFFIX,static.binance.com
 DOMAIN-SUFFIX,api.binance.com
 DOMAIN-SUFFIX,www.binance.com
@@ -202,6 +204,3 @@ DOMAIN-SUFFIX,accounts.binance.com
 DOMAIN-SUFFIX,c2c.binance.com
 DOMAIN-SUFFIX,fapi.binance.com
 DOMAIN-SUFFIX,dapi.binance.com
-DOMAIN-SUFFIX,api1.binance.com
-DOMAIN-SUFFIX,api2.binance.com
-DOMAIN-SUFFIX,api3.binance.com
