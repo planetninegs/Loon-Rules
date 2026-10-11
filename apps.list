@@ -204,3 +204,11 @@ DOMAIN-SUFFIX,accounts.binance.com
 DOMAIN-SUFFIX,c2c.binance.com
 DOMAIN-SUFFIX,fapi.binance.com
 DOMAIN-SUFFIX,dapi.binance.com
+
+
+# Binance 风控 / 第三方检测
+DOMAIN-SUFFIX,forter.com
+DOMAIN-SUFFIX,appsflyersdk.com
+DOMAIN-KEYWORD,forter
+DOMAIN-KEYWORD,appsflyer
+DOMAIN-SUFFIX,cloudfront.net
